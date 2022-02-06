@@ -1,0 +1,26 @@
+.pagination-section {
+    position: relative;
+    width: 100%;
+    background-color: #7a5ff8;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 2px;
+
+    
+}
+
+.pagination li a{
+    color: #fff;
+    padding: 8px;
+    display: inline-block;
+
+}
+
+.pagination li.active span{
+    background: #444;
+    color: #fff;
+    display: inline-block;
+    padding: 8px;
+
+}
+
